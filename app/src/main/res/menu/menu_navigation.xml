@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_world_time" android:title="World time" android:icon="@drawable/calendar"/>
+    <item android:id="@+id/nav_alarm" android:title="Alarm" android:icon="@drawable/alarm"/>
+    <item android:id="@+id/nav_timer" android:title="Timer" android:icon="@drawable/timer"/>
+    <item android:id="@+id/nav_count_down" android:title="Count down" android:icon="@drawable/countdown"/>
+</menu>
